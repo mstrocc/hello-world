@@ -1,4 +1,15 @@
 # To clone a repository
-git clone https://github.com/mstrocc/hello-world.git
-
+git clone <url of repository> https://github.com/mstrocc/hello-world.git
+# To get a status of your gits changes or see if you have any uncommitted changes (add/commit)
+git status
+# To add files to Git
+git add <filename>
+# To commit your changes adn add a message about what you are commiting
+git commit -m "<message text>"
+# To see a log of commits use
+git log
+# To push your changes up to git hub
+git push origin master
+# To pull changes from git hub to your local disk
+git pull origin master
 
