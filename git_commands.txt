@@ -19,3 +19,10 @@ git push origin master
 # To pull files from git hub to your local disk (a pull does a "fetch" and a "merge")
 git pull origin master
 
+
+# To add anew branch
+git branch <branch name>
+# To switch to that branch
+git checkout <branch name>
+
+
